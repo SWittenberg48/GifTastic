@@ -1,0 +1,15 @@
+.container {
+  padding: 10%;
+  font-size: 50px;
+}
+
+.jumbotron {
+  background-color: orange;
+  color: black;
+}
+
+.btn {
+  background-color: black;
+  color: orange;
+  align-content: center;
+}
